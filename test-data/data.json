@@ -1,0 +1,12 @@
+{
+	"requestHeader": {
+		"propertyKey1": "propertyValue1",
+		"propertyKey2": "propertyValue2",
+		"propertyKey3": "propertyValue2"
+	},
+	"securityInfo": {
+		"propertyKey1": "propertyValue1",
+		"propertyKey2": "propertyValue2",
+		"propertyKey3": "propertyValue2"
+	}
+}
