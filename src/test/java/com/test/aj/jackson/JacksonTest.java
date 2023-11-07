@@ -1,4 +1,4 @@
-package com.company.test.jackson;
+package com.test.aj.jackson;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
