@@ -2,8 +2,6 @@ package com.test.aj.collections;
 
 import org.junit.BeforeClass;
 import org.junit.Test;
-import org.junit.jupiter.api.Disabled;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

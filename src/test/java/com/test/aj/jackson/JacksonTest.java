@@ -105,8 +105,8 @@ public class JacksonTest {
 	@Data
 	private static class SecurityData2 {
 		/**
-		 *  We are defining the nested elements as JSON object.
-		 *  This gives more flexibility, see line# 77
+		 * We are defining the nested elements as JSON object.
+		 * This gives more flexibility, see line# 77
 		 * 
 		 */
 		private RequestHeader requestHeader;

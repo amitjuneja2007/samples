@@ -2,7 +2,6 @@ package com.test.aj.guavaApi;
 
 import com.company.test.java.model.CorpActionData;
 import com.google.common.collect.Sets;
-import lombok.extern.slf4j.Slf4j;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 
